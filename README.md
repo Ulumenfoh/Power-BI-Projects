@@ -3,7 +3,8 @@
 My Power BI projects, dashboards, reports, and data visualizations built with real-world datasets.
 
 ## Projects
-Olympics_Data_Set_Project.png: ### 1. Olympics Data Set Analysis
+Olympics_Data_Set_Project.png: ### 
+Olympics Data Set Analysis
 **Overview:** An analysis of Olympic Games data spanning over 100 years, 
 examining medal distributions across countries, sports, age groups and gender.
 
@@ -14,7 +15,9 @@ examining medal distributions across countries, sports, age groups and gender.
 
 ## Tools Used:Power BI, Power Query
 
-Email_Marketing_Dashboard: ### 2. Email Marketing Target Dashboard
+Email_Marketing_Dashboard
+
+###Email Marketing Target Dashboard
 
 Overview: A dashboard analyzing email marketing subscriber data across 
 cities, states, gender and marital status to identify the best target audience.
