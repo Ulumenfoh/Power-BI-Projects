@@ -6,5 +6,5 @@ My Power BI projects, dashboards, reports, and data visualizations built with re
 Olympics_Data_Set_Project.pbix 
 
 ## Contact
-- LinkedIn:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/ulumenfoh-o-joy/
+- Email: joyulumenfoh@gmail.com
