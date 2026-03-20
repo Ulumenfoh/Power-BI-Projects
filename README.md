@@ -61,6 +61,23 @@ performance, pricing and revenue trends across gender and time.
 
 **Tools Used:** Power BI, Power Query
 
+### 5. Unemployment Data Analysis
+![Unemployment Dashboard](Unemployment_Analysis.png)
+
+**Overview:** A Power BI dashboard analyzing unemployment trends 
+across age groups, gender and years, identifying peak unemployment 
+periods and the most affected demographics.
+
+**Business Questions Answered:**
+- Which age group has the highest unemployment rate?
+- Which gender is most affected by unemployment?
+- Which year recorded the highest unemployment?
+- Which year recorded the lowest unemployment?
+- How has unemployment trended over the years by gender?
+- What is the unemployment distribution across different age groups?
+
+**Tools Used:** Power BI, Power Query, Dax
+
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ulumenfoh-o-joy/
