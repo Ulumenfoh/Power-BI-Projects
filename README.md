@@ -43,7 +43,23 @@ across demographics, regions, job types and account balances.
 
 **Tools Used:** Power BI, Power Query
 
-Tools Used: Power BI, Power Query
+### 4. Sales and Inventory Analysis - Fruit Data Set
+
+![Sales Dashboard](Sales_Inventory_Analysis.png)
+
+**Overview:** A Power BI dashboard analyzing fruit and vegetable 
+sales data examining customer purchasing patterns, product 
+performance, pricing and revenue trends across gender and time.
+
+**Business Questions Answered:**
+- Which customers purchase the highest quantity of products?
+- What are the top 3 most and least sold products?
+- Which products are the most expensive?
+- How does sales amount vary by gender over the years?
+- What is the unit price distribution across product categories?
+- What are the total sales, quantity and discount figures?
+
+**Tools Used:** Power BI, Power Query
 
 
 ## Contact
