@@ -27,6 +27,22 @@ cities, states, gender and marital status to identify the best target audience.
 - What is the gender and demographic breakdown of subscribers?
 - How has subscriber growth trended year over year?
 
+- ### 3. Customer Analysis - Bank
+![Bank Dashboard](Bank_Customer_Analysis.png)
+
+**Overview:** A Power BI dashboard analyzing UK bank customer data 
+across demographics, regions, job types and account balances.
+
+**Business Questions Answered:**
+- Which age group has the highest number of bank customers?
+- How does account balance vary across age groups and gender?
+- Which region has the most customers and highest total balance?
+- What is the gender distribution of customers and their balances?
+- Which job type dominates the customer base?
+- How has customer acquisition grown over time?
+
+**Tools Used:** Power BI, Power Query
+
 Tools Used: Power BI, Power Query
 
 
